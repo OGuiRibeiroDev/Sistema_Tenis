@@ -1,0 +1,48 @@
+body {
+    background-color: #C0C0C0;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+form {
+    color: white;
+    width: 300px; 
+    margin: 0 auto; 
+    padding: 20px; 
+    background-color:#191970;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input, label {
+    display: block;
+    margin-bottom: 15px;
+}
+
+select {
+    display: block;
+    margin-bottom: 15px;
+    width: 300px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #fff;
+}
+
+input {
+    width: 100%;
+    padding: 10px; 
+    box-sizing: border-box; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+}
+
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+h2 {
+    color: #555;
+    margin-bottom: 20px;
+}
