@@ -17,7 +17,9 @@
     <form id="cadastrar_item" method="post">
 
         <label for="id">Código</label>
-        <input type="number" name="id_tenis" id="id" required>
+        <input type="number" name="id_tenis" id="cadastro_tenis" required>
+
+        
 
         <label for="modelo">Modelo</label>
         <select name="modelo_tenis" id="modelo" required>

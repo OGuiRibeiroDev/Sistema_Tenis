@@ -1,10 +1,10 @@
 <?php
 
-$link = mysqli_connect("127.0.0.1", "root", "");
+$conexao = mysqli_connect("127.0.0.1", "root", "", "tenis");
 
-if (!$link) {
+if (!$conexao) {
     die('Could not connect: ' . mysqli_error());
 }
-mysqli_close($link);
+
 
 ?>
