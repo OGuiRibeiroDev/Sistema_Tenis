@@ -37,10 +37,6 @@
         <label for="cor">Cor do tênis</label>
         <select name="cor_tenis" id="cor" required>
 
-            <option value="1">Azul</option>
-            <option value="2">Vermelho</option>
-            <option value="3">Verde</option>
-            <option value="4">Preto</option>
 
         </select>
 
